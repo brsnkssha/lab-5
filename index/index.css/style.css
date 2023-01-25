@@ -40,7 +40,7 @@ p{
         float: left;
 
     }
-    bio:visited{
+    .bio:visited{
         font-size: 20px;
         display: flex;
         flex-direction: column;
