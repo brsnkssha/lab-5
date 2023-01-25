@@ -33,22 +33,10 @@ p{
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
-    .row {
-      
-        flex-wrap:wrap;
-        
+    .Caption{
+        width:50%
+        float:left
     }
-    .Main:nth-of-type(1){
-        flex:1;
-    }
-    .Main:nth-of-type(2){
-        flex:1;
-    }
-    #cap2{
-        background-color: rgb(175, 70, 255);
-        }
-        #cap3{
-            background-color: rgb(238, 198, 151);
-            }
-        
+    .Main{
+        justify-content: space-around;
     }
