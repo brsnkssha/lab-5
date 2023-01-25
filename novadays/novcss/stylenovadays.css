@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 22px;
+  }
+  
+  .back{
+    font-style: italic;
+  }
+  h2{
+    text-align: center;
+  }
+  .gr{
+    background-color: rgb(51, 50, 50);
+    color: white;
+  }
+  .w{
+    color: rgb(51, 50, 50);
+  }
+  
+  .fing{
+    cursor: pointer;
+  }
+
+  .col{
+    background-color: lavender;
+  }
+
